@@ -18,6 +18,19 @@ The main goal was to practice building functional buttons that will work like a 
 
 Few takeaways from this project:
 
-a.) Importance of formatting
+- Importance of formatting
 
-b.) Importance of the K.I.S.S principle - keeping the code short and simple made the code easy to navigate and edit
+- Importance of the K.I.S.S principle - keeping the code short and simple made the code easy to navigate and edit
+
+b. 'Window' Project
+
+Analysis
+
+This is a personal project aiming to make a simple GUI, in this case a window. Making a textbox is also implemented in this project.
+
+This project shows:
+
+- The important usage of classes and "encapsulation"
+
+
+
