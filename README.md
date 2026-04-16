@@ -32,5 +32,15 @@ This project shows:
 
 - The important usage of classes and "encapsulation"
 
+c. Classes Tutorials, Indently
+
+These are codes I practiced during my study of OOP. I watched a YouTube video and applied the concepts from that video.
+
+Concepts Applied:
+
+- OOP Principles
+
+- Encapsulation
+
 
 
