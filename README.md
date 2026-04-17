@@ -8,6 +8,8 @@ Repository: 'research'
 
 Disclaimer: The projects with the 'Week' keyword as prefix are projects from the Certificate in IT course. It is just uploaded to summarize work done throughout the entire first 9 weeks of the IT course.
 
+"Visual Studio Code" is used as the primary IDE for all the projects.
+
 The following are personal projects I've done throughout the entire course:
 
 a. The 'I Love You' Project
